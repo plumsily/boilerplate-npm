@@ -2,9 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Justin Lee",
   "dependencies": {
-    "express": "^4.14.0",
-    "package-name": "moment",
-    "moment": "^2.10.2"
+    "express": "^4.14.0"
   },
   "main": "server.js",
   "scripts": {

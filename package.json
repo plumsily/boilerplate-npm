@@ -12,5 +12,11 @@
     "type": "git",
     "url": "https://plumsily.github.io/boilerplate-npm/"
   },
-  "description": "A plumsily project that does something clumsily."
+  "description": "A plumsily project that does something clumsily.",
+  "keywords": [
+    "freecodecamp",
+    "boilerplate",
+    "backend",
+    "project"
+  ]
 }

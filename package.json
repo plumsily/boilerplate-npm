@@ -19,5 +19,6 @@
     "backend",
     "project"
   ],
-  "license": "N/A"
+  "license": "N/A",
+  "version": "0.0.1"
 }

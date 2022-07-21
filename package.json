@@ -11,5 +11,6 @@
   "repository": {
     "type": "git",
     "url": "https://plumsily.github.io/boilerplate-npm/"
-  }
+  },
+  "description": "A plumsily project that does something clumsily."
 }
